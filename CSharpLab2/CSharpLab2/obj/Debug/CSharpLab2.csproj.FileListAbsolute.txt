@@ -1,0 +1,7 @@
+C:\Users\Radik\source\repos\CSharpLab2\CSharpLab2\bin\Debug\CSharpLab2.exe.config
+C:\Users\Radik\source\repos\CSharpLab2\CSharpLab2\bin\Debug\CSharpLab2.exe
+C:\Users\Radik\source\repos\CSharpLab2\CSharpLab2\bin\Debug\CSharpLab2.pdb
+C:\Users\Radik\source\repos\CSharpLab2\CSharpLab2\obj\Debug\CSharpLab2.csprojResolveAssemblyReference.cache
+C:\Users\Radik\source\repos\CSharpLab2\CSharpLab2\obj\Debug\CSharpLab2.csproj.CoreCompileInputs.cache
+C:\Users\Radik\source\repos\CSharpLab2\CSharpLab2\obj\Debug\CSharpLab2.exe
+C:\Users\Radik\source\repos\CSharpLab2\CSharpLab2\obj\Debug\CSharpLab2.pdb

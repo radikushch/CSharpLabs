@@ -1,0 +1,14 @@
+C:\Users\Radik\source\repos\CSharpLab1\CSharpLab1\bin\Debug\CSharpLab1.exe.config
+C:\Users\Radik\source\repos\CSharpLab1\CSharpLab1\bin\Debug\CSharpLab1.exe
+C:\Users\Radik\source\repos\CSharpLab1\CSharpLab1\bin\Debug\CSharpLab1.pdb
+C:\Users\Radik\source\repos\CSharpLab1\CSharpLab1\obj\Debug\CSharpLab1.csprojResolveAssemblyReference.cache
+C:\Users\Radik\source\repos\CSharpLab1\CSharpLab1\obj\Debug\CSharpLab1.csproj.CoreCompileInputs.cache
+C:\Users\Radik\source\repos\CSharpLab1\CSharpLab1\obj\Debug\CSharpLab1.exe
+C:\Users\Radik\source\repos\CSharpLab1\CSharpLab1\obj\Debug\CSharpLab1.pdb
+C:\Users\Radik\source\repos\CSharpLabs\CSharpLab1\CSharpLab1\bin\Debug\CSharpLab1.exe.config
+C:\Users\Radik\source\repos\CSharpLabs\CSharpLab1\CSharpLab1\bin\Debug\CSharpLab1.exe
+C:\Users\Radik\source\repos\CSharpLabs\CSharpLab1\CSharpLab1\bin\Debug\CSharpLab1.pdb
+C:\Users\Radik\source\repos\CSharpLabs\CSharpLab1\CSharpLab1\obj\Debug\CSharpLab1.csprojResolveAssemblyReference.cache
+C:\Users\Radik\source\repos\CSharpLabs\CSharpLab1\CSharpLab1\obj\Debug\CSharpLab1.csproj.CoreCompileInputs.cache
+C:\Users\Radik\source\repos\CSharpLabs\CSharpLab1\CSharpLab1\obj\Debug\CSharpLab1.exe
+C:\Users\Radik\source\repos\CSharpLabs\CSharpLab1\CSharpLab1\obj\Debug\CSharpLab1.pdb
